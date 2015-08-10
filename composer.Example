@@ -1,0 +1,21 @@
+{
+    "name": "masnegocio/SkeletonComposer",
+    "description": "La descripcion de tu mini proyeto",
+    "license": "MIT",
+    "keywords": ["masnegocio", "skeleton", "composer"],
+    "authors": [
+        {
+            "name": "Christian Hernandez",
+            "email": "javierv31@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tu\\Namespace\\": "src/"
+        }
+    }
+}

@@ -1,5 +1,5 @@
 <?php
-namespace MNTrait\Comun;
+namespace Masnegocio\teamwork\Comun;
 
 trait Response {
 	
